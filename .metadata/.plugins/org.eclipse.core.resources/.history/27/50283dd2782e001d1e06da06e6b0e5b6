@@ -1,0 +1,12 @@
+package com.hexaware.cartservice.entity;
+
+import javax.peristence.Entity;
+
+@Entity
+public class Cart {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long productId;
+	private Long cartTotalName;
+}

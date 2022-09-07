@@ -1,0 +1,11 @@
+package com.hexaware.cartservice.entity;
+
+
+public class Cart {
+
+	private Long cartId;
+	private Long cartPrice;
+	public Cart() {
+		
+	}
+}

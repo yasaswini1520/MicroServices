@@ -1,0 +1,5 @@
+package com.hexaware.itemcatalog.entity;
+
+public class Item {
+
+}

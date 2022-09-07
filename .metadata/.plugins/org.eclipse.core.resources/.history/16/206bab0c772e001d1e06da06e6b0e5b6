@@ -1,0 +1,8 @@
+package com.hexaware.productservice.repository;
+
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface ProductRepository {
+
+}

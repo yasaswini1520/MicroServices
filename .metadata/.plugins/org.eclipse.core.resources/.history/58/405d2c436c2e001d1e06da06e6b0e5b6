@@ -1,0 +1,11 @@
+package com.hexaware.itemcatalog.entity;
+
+import javax.persistence.Entity;
+@Entity
+public class Item {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private Long Id;
+	private String name;
+}

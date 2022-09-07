@@ -1,0 +1,9 @@
+package com.hexaware.itemcatalog.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.hexaware.itemcatalog.entity.Item;
+
+public interface ItemRepository extends JpaRepository<Item,Long> {
+
+}

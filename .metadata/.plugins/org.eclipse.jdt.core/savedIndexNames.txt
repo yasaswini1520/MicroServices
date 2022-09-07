@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\ReactJS Practice\MicroSevices\.metadata\.plugins\org.eclipse.jdt.core
+1982384459.index
+3457773309.index
+548737089.index
+3037678151.index
+335211976.index
+787676871.index

@@ -1,0 +1,5 @@
+package com.hexaware.itemcatalog.repository;
+
+public class ItemRepository {
+
+}

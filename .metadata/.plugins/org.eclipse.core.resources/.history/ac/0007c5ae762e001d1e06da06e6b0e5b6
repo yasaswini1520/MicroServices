@@ -1,0 +1,5 @@
+package com.hexaware.productservice.entity;
+
+public class Product {
+
+}

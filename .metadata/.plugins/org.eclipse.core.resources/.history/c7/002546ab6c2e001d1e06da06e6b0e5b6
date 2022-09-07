@@ -1,0 +1,5 @@
+package com.hexaware.itemcatalog.repository;
+
+public interface ItemRepository extends JpaRepository<Item,Long> {
+
+}

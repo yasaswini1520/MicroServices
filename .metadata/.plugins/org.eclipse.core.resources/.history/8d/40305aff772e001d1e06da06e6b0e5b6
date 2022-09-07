@@ -1,0 +1,5 @@
+package com.hexaware.cartservice.entity;
+
+public class Cart {
+
+}
